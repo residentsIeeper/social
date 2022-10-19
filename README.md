@@ -1,1 +1,1 @@
-Simple social network using Ruby on Rails.
+Simple social network with Ruby on Rails.
